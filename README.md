@@ -23,4 +23,4 @@ Projeto feito em sala da [Infinity School](https://infinityschool.com.br/).
 
 Professor [Luan Oliveira](https://www.linkedin.com/in/luanpdd/).
 
-Dupla responsavel pelo JavaScript[mahthviana(https://github.com/mahthviana)].
+Dupla responsavel pelo JavaScript[mahthviana](https://github.com/mahthviana).
